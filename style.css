@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(45deg, rgb(38, 70, 81), rgb(24, 47, 55));
+    color: white;
+    font-family: "Lucida Console";
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+.commands{
+    background-color: black;
+    margin: 10px auto;
+    padding: 0px 20px;
+    width: 100px;
+    text-align: left;
+}
